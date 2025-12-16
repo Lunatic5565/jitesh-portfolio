@@ -41,7 +41,7 @@ export default function Projects() {
               "Machine Learning",
               "Cybersecurity",
             ]}
-            github="https://github.com/yourusername/phishing-detection"
+            github="https://github.com/Lunatic5565/Phish-King"
           />
 
           <ProjectCard
