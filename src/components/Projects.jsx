@@ -29,7 +29,7 @@ export default function Projects() {
               "IDS/IPS Concepts",
               "Cybersecurity",
             ]}
-            github="https://github.com/yourusername/ids-project"
+            github="https://github.com/Lunatic5565/real-time-nids"
           />
 
           <ProjectCard
