@@ -33,6 +33,18 @@ export default function Projects() {
           />
 
           <ProjectCard
+            title="SOC Alert Investigation Simulator"
+            description="A hands-on Security Operations Center (SOC) simulation project that demonstrates how security alerts are generated, triaged, validated, and visualized using realistic workflows, logs, and packet analysis.."
+            tools={[
+              "Python",
+              "Wireshark",
+              "SOC triage",
+              "Port Scanning",
+            ]}
+            github="https://github.com/Lunatic5565/SOC-Alert-Investigation-Simulator"
+          />
+
+          <ProjectCard
             title="Phishing Detection System"
             description="Security-focused system to analyze URLs and detect phishing attempts using feature extraction and classification techniques."
             tools={[
